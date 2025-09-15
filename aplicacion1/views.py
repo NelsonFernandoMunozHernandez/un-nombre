@@ -7,7 +7,7 @@ def vista1(request):
         """
         <h1>Vista 1</h1>
         <p style="color:blue;">un 7 por favor ¿si? :)<p>
-        <a href="/aplicacion1/Vista2">Vista 2</a>
+        <a href="/aplicacion1/vista2">Vista 2</a>
         """
         )
 def vista2(request):
